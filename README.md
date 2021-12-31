@@ -3,7 +3,7 @@
 
 <p align = "center">
   <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/" rel="noopener"><br> 
- <img width=50px height=50px src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Logo"></a>
+ <img width=230px height=94px src="https://upload.wikimedia.org/wikipedia/commons/3/39/FreeCodeCamp_logo.png" alt="Logo"></a>
 </p>
 
 
